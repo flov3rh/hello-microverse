@@ -4,7 +4,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -48,12 +47,6 @@
 - **[Getting to know the double step saving process]** By using git we become familiar with the workflow of the DVCS.
 - **[Improve commit messages]** By using the workflow and keeping in mind persons that will need to review the code we write better commit messages.
 - **[Pull Request]** Finally learning how to use branches and pull requests.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://htmlpreview.github.io/github.com/flov3rh/hello-microverse/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
