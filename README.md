@@ -1,11 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <h3><b>Hello Microverse mini project</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
