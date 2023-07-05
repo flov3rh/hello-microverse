@@ -87,30 +87,17 @@ To run the project, execute the following command simply open the live version o
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following commands on the root directory of the project:
 
 <!--
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+   npx hint .
+   npx stylelint "**/*.{css,scss}"
+
 ```
 --->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
