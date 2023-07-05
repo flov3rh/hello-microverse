@@ -81,16 +81,11 @@ To run the project, execute the following command simply open the live version o
 
 To run tests, run the following commands on the root directory of the project:
 
-<!--
-Example command:
-
 ```sh
    npx hint .
    npx stylelint "**/*.{css,scss}"
 
 ```
---->
-
 ## 👥 Authors <a name="authors"></a>
 
 - GitHub: [@flov3rh](https://github.com/flov3rh)
